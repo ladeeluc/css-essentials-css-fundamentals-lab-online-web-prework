@@ -1,5 +1,45 @@
-body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+
+  body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    
+  }
+  
+  h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 50pt;
+  }
+  
+  html body {
+    text-align: center
+  }
+
+img {
+
 }
+
+nav, figcaption {
+  text-align: center;
+}
+
+nav a {
+
+      background-color: silver;
+      background-color: rgba(184, 145, 157, 0.719)
+      margin: 0 auto;
+      padding: 10px;
+}
+
+
+#featured-property p {
+  width: 800px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+
+
+
+
